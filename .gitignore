@@ -12,6 +12,7 @@ bin/
 gen/
 
 # Gradle files
+gradle/
 .gradle/
 build/
 /*/build/
@@ -28,3 +29,4 @@ proguard/
 # IDE
 .idea/
 *.iml
+local.properties
